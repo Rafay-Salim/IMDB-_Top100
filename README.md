@@ -13,15 +13,6 @@ This project investigates the characteristics that define a "good" movie by anal
 
 ---
 
-## 📁 Repository Structure
-├── data/
-│ └── imdb_top_1000.csv # Raw and cleaned dataset
-├── notebooks/
-  ├── data
-
-
----
-
 ## 🧠 Key Questions Explored
 
 - What are the most common genres among top-rated movies?
